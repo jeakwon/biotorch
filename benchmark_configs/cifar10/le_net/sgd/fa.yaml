@@ -4,7 +4,7 @@ experiment:
   output_dir: "trained_models/cifar10/le_net_cifar/"
   # For reproducibility
   seed: 2021
-  deterministic: true
+  deterministic: false
 
 # Dataset
 data:
